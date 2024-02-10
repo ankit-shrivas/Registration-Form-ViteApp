@@ -1,0 +1,19 @@
+.bg-blue {
+	background-color: rgb(183, 183, 223);
+	padding: 1px;
+}
+
+.bg-gray {
+	background-color: gray;
+	padding: 10px;
+}
+
+.w-1 {
+	width: 80%;
+	padding: 10px;
+	background-color: pink;
+}
+
+.p-tb {
+	padding: 10px 0px;
+}
